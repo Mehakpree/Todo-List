@@ -1,4 +1,4 @@
-# Todo-List
+# haloo
 
 ![image](https://github.com/Pranavnk15/Todo-List/assets/96475101/3e8334b6-71f3-45b4-9103-3ce6485e5237)
 
